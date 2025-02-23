@@ -1,5 +1,5 @@
 ---
-title: La Comunidad: Jugar Juntos
+title: La Comunidad, Jugar Juntos
 date: 2016-07-28
 description: Cazar en equipo siempre es mas divertido :D
 categories:

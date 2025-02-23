@@ -1,5 +1,5 @@
 ---
-title: El Equipo: Forjando tu Propio Camino
+title: El Equipo, Forjando tu Propio Camino
 date: 2016-08-02
 description: Tendras lo necesario para seguir adelante?
 categories:
