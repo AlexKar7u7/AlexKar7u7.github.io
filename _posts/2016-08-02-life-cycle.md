@@ -1,23 +1,12 @@
 ---
-title: Life cycle of friendships
+title: El Equipo: Forjando tu Propio Camino
 date: 2016-08-02
-description: How do friendships develop?
+description: Tendras lo necesario para seguir adelante?
 categories:
   - friendship
 image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
 author_staff_member: anna
 ---
-Three significant factors make the formation of a friendship possible:
+Una de las características más emocionantes de Monster Hunter es la enorme variedad de armas y armaduras disponibles. Desde espadas gigantes y martillos pesados hasta arcos y lanzas, cada arma tiene un estilo de combate distinto, lo que te permite personalizar tu enfoque en el campo de batalla. El desafío es encontrar la que mejor se adapte a tu estilo, lo que puede llevar tiempo, pero esa es precisamente la gracia: la experimentación y la mejora continua.
 
-* Proximity – nearness or having a place or places to interact
-* Repeated, unplanned interactions
-* A setting that encourages people to confide in each other
-
-![Coins](https://source.unsplash.com/random/1500x1000)
-
-## Dissolution
-Friendships end for many different reasons. Sometimes friends move away from each other and the relationship wanes due to the distance. Digital technology has however made geographic distance less of an obstacle to maintaining a friendship. Sometimes divorce causes an end to friendships, as people drop one or both of the divorcing people. For young people, friendships may end as a result of acceptance into new social groups.
-
-![American River](https://source.unsplash.com/random/1500x1001)
-
-Friendships may end by fading quietly away or may end suddenly. How and whether to talk about the end of a friendship is a matter of etiquette that depends on the circumstances.
+La obtención de materiales es crucial. Después de cada caza, obtendrás partes del monstruo que derrotaste, y con ellas podrás crear nuevos equipos más poderosos. El proceso de recolección y mejora es adictivo, ya que siempre estás buscando el siguiente gran equipo para enfrentarte a monstruos aún más desafiantes.
